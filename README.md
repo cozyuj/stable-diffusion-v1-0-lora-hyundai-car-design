@@ -24,19 +24,19 @@ LoRA를 이용해 경량화된 어댑터 레이어만 학습하여, 원본 모�
 <br>
 
 ## repo 구조
-리포지토리의 주요 파일 및 디렉토리는 다음과 같습니다:
-README.md: 프로젝트 개요 및 설명을 담고 있는 문서입니다.
-Loras/: 훈련된 LoRA 모델 파일이 저장되는 디렉토리입니다.
-Lora_Trainer.ipynb: LoRA 모델을 훈련시키는 Jupyter Notebook 파일입니다.
-Lora_dataset.ipynb: 모델 훈련에 사용할 데이터셋을 준비하는 Jupyter Notebook 파일입니다.
+리포지토리의 주요 파일 및 디렉토리는 다음과 같습니ㄷr.  
+README.md: 프로젝트 개요 및 설명을 담고 있는 문서입니다.  
+Loras/: 훈련된 LoRA 모델 파일이 저장되는 디렉토리입니다.  
+Lora_Trainer.ipynb: LoRA 모델을 훈련시키는 Jupyter Notebook 파일입니다.  
+Lora_dataset.ipynb: 모델 훈련에 사용할 데이터셋을 준비하는 Jupyter Notebook 파일입니다.  
 
 <br>
 
 ## LoRA 기반 모델 훈련 절차
-샘플링 이미지 수집: 자동차 이미지를 수집하여 모델 학습에 필요한 데이터를 준비합니다.
-데이터셋 제작: 수집한 이미지를 기반으로 LoRA 모델 훈련에 적합한 데이터셋을 생성합니다.
-LoRA 모델 훈련: 준비된 데이터셋을 사용하여 LoRA 모델을 훈련시킵니다.
-<img width="1310" height="716" alt="image" src="https://github.com/user-attachments/assets/3bd5f7d8-b2c2-47ef-ac41-0680abcd7114" />
+샘플링 이미지 수집: 자동차 이미지를 수집하여 모델 학습에 필요한 데이터를 준비합니다.  
+데이터셋 제작: 수집한 이미지를 기반으로 LoRA 모델 훈련에 적합한 데이터셋을 생성합니다.  
+LoRA 모델 훈련: 준비된 데이터셋을 사용하여 LoRA 모델을 훈련시킵니다.  
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/3bd5f7d8-b2c2-47ef-ac41-0680abcd7114" />
 
 
 <br>
