@@ -1,4 +1,4 @@
-# LoRA 기반 Stable Diffusion v1.5 자동차 이미지 파인튜닝 모델
+# LoRA 기반 Stable Diffusion 자동차 이미지 파인튜닝 모델
 🚗🚗🚗  <br>
 이 저장소는 sd-legacy/stable-diffusion-v1-5 모델을 베이스로, <br>
 자동차 이미지에 특화된 LoRA(Low-Rank Adaptation) 파인튜닝을 수행한 프로젝트입니다.  <br>
@@ -36,6 +36,8 @@ Lora_dataset.ipynb: 모델 훈련에 사용할 데이터셋을 준비하는 Jupy
 샘플링 이미지 수집: 자동차 이미지를 수집하여 모델 학습에 필요한 데이터를 준비합니다.
 데이터셋 제작: 수집한 이미지를 기반으로 LoRA 모델 훈련에 적합한 데이터셋을 생성합니다.
 LoRA 모델 훈련: 준비된 데이터셋을 사용하여 LoRA 모델을 훈련시킵니다.
+<img width="1310" height="716" alt="image" src="https://github.com/user-attachments/assets/3bd5f7d8-b2c2-47ef-ac41-0680abcd7114" />
+
 
 <br>
 
